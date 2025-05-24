@@ -14,6 +14,11 @@ A full-featured Hospital Management System designed to streamline hospital opera
 - 🔐 Secure Login for Admins, Doctors, and Staff
 - 📊 Real-time Queue and Patient Status Updates
 
+## 🖼️ Screenshots
+
+### Login Page
+![Login Page](https://github.com/Manaswinisaroja/HMS/blob/93b7caafa6039c3ac89261ac624d5c32b6d9b844/LoginPage.png)
+
 ## 🔗 GitHub Repository
 
 [Click here to view the project on GitHub](https://github.com/Manaswinisaroja/HMS)
