@@ -22,25 +22,25 @@ A full-featured Hospital Management System designed to streamline hospital opera
 ### Main Page
 ![Main Page](https://github.com/Manaswinisaroja/HMS/blob/c695846003653aa9c953513509f5afa10fdc2d95/MainPage.png)
 
-###Add New Patient
+### Add New Patient
 ![Add New Patient](https://github.com/Manaswinisaroja/HMS/blob/c695846003653aa9c953513509f5afa10fdc2d95/AddPatient.png)
 
-###Room
+### Room
 ![Room](https://github.com/Manaswinisaroja/HMS/blob/c695846003653aa9c953513509f5afa10fdc2d95/Room.png)
 
-###Department
+### Department
 ![Department](https://github.com/Manaswinisaroja/HMS/blob/c695846003653aa9c953513509f5afa10fdc2d95/Department.png)
 
-###Employee Info
+### Employee Info
 ![Employee Info](https://github.com/Manaswinisaroja/HMS/blob/c695846003653aa9c953513509f5afa10fdc2d95/Employee.png)
 
-###Patient Info
+### Patient Info
 ![Patient Info](https://github.com/Manaswinisaroja/HMS/blob/c695846003653aa9c953513509f5afa10fdc2d95/Patient.png)
 
-###Doctor
+### Doctor
 ![Doctor](https://github.com/Manaswinisaroja/HMS/blob/c695846003653aa9c953513509f5afa10fdc2d95/Doctor.png)
 
-###Billing
+### Billing
 ![Billing](https://github.com/Manaswinisaroja/HMS/blob/c695846003653aa9c953513509f5afa10fdc2d95/Billing.png)
 
 ## 🔗 GitHub Repository
